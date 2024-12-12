@@ -13,14 +13,3 @@ def q2():
     pass
     
 
-def q3():
-    """
-    Quantidade de divisores de um número (incluindo 1 e o próprio número)
-    """
-    pass
-
-def q4():
-    """
-    Soma dos números positivos no intervalo definido
-    """
-    pass
